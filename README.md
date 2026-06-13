@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-> Deploy on GitHub Pages or Vercel and paste your link here.
+https://weiwei-gitch.github.io/Pinnacle_PortfolioWebsite/
 
 ---
 
